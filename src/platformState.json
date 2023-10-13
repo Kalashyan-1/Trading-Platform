@@ -1,0 +1,42 @@
+{
+    "orderBook": {
+        "buyOrders": {
+            "limitOrders": [
+                {
+                    "price": 367.42102340994626,
+                    "quantity": 2,
+                    "symbol": "FB",
+                    "traderID": 4
+                }
+            ],
+            "marketOrders": [
+                {
+                    "quantity": 1,
+                    "symbol": "MSFT",
+                    "traderID": 5
+                }
+            ]
+        },
+        "sellOrders": {
+            "limitOrders": null,
+            "marketOrders": null
+        }
+    },
+    "traders": [
+        {
+            "balance": 22454.961775618278,
+            "id": 4,
+            "name": "asc"
+        },
+        {
+            "balance": 170.59147753130281,
+            "id": 5,
+            "name": "asc"
+        },
+        {
+            "balance": 123.0,
+            "id": 6,
+            "name": "asd"
+        }
+    ]
+}

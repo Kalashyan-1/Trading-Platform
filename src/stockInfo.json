@@ -1,0 +1,100 @@
+[
+    {
+        "symbol": "AAPL",
+        "price": 150.0,
+        "volume": 10000,
+        "type": "Common",
+        "dividend": 2.0
+    },
+    {
+        "symbol": "GOOGL",
+        "price": 2700.0,
+        "volume": 5000,
+        "type": "Common",
+        "dividend": 0.0
+    },
+    {
+        "symbol": "MSFT",
+        "price": 300.0,
+        "volume": 8000,
+        "type": "Preferred",
+        "dividend": 3.0
+    },
+    {
+        "symbol": "AMZN",
+        "price": 3400.0,
+        "volume": 6000,
+        "type": "Common",
+        "dividend": 0.5
+    },
+    {
+        "symbol": "TSLA",
+        "price": 750.0,
+        "volume": 9000,
+        "type": "Common",
+        "dividend": 0.0
+    },
+    {
+        "symbol": "FB",
+        "price": 350.0,
+        "volume": 7500,
+        "type": "Common",
+        "dividend": 1.5
+    },
+    {
+        "symbol": "GOOG",
+        "price": 2800.0,
+        "volume": 5500,
+        "type": "Common",
+        "dividend": 0.0
+    },
+    {
+        "symbol": "NFLX",
+        "price": 550.0,
+        "volume": 4200,
+        "type": "Common",
+        "dividend": 0.0
+    },
+    {
+        "symbol": "NVDA",
+        "price": 220.0,
+        "volume": 9500,
+        "type": "Common",
+        "dividend": 1.0
+    },
+    {
+        "symbol": "CRM",
+        "price": 250.0,
+        "volume": 8500,
+        "type": "Common",
+        "dividend": 0.5
+    },
+    {
+        "symbol": "ORCL",
+        "price": 90.0,
+        "volume": 15000,
+        "type": "Common",
+        "dividend": 0.8
+    },
+    {
+        "symbol": "IBM",
+        "price": 130.0,
+        "volume": 12000,
+        "type": "Preferred",
+        "dividend": 2.5
+    },
+    {
+        "symbol": "INTC",
+        "price": 60.0,
+        "volume": 18000,
+        "type": "Common",
+        "dividend": 0.3
+    },
+    {
+        "symbol": "AAPL2",
+        "price": 150.0,
+        "volume": 10000,
+        "type": "Common",
+        "dividend": 2.0
+    }
+]
